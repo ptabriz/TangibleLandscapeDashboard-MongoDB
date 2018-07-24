@@ -9,7 +9,7 @@ This application is created for the Tangible Landscape project (see <https://git
 #### MongoDB  
 1. Download installer from <https://www.mongodb.com/download-center#community> and follow instructions.  
 2. Once the file is downloaded unzip it and rename (e.g., MongoDB) and move the folder to appropriate location (e.g., User directory).  
-3. Create the folder a new folder and name it as you wish (e.g., "mongo-data") in the same directory as you saved MongoDB folder. 
+3. Create a new folder and name it as you wish (e.g., "mongo-data") in the same directory as you saved MongoDB folder. 
 4. Open Command line and change directory to MongoDB folder  
 ```
  cd directory to your MongoDB folder/Server/3.4/bin  
